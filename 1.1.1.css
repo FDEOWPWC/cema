@@ -1,0 +1,41 @@
+.boton{
+    position: absolute;
+    left: 1100px;
+    background-color: darkgray;
+    font-size: 40px;
+    top: 100px;
+}
+.boton:hover{
+    background-color: darkgreen;
+    color: white;
+}
+.i1s{
+    position: absolute;
+    color: white;
+    background-color: darkgreen;
+    width: 300px;
+    padding: 30px;
+    font-size: 30px;
+    left: 450px;
+}
+body{
+    position: absolute;
+    background-image: url(./img/la-ecologia-y-su-importancia-para-el-futuro-del-planeta-tierra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.info{
+    position: absolute;
+    color: white;
+    background-color: darkgreen;
+    width: 600px;
+    font-size: 30px;
+    top: 250px;
+    left: 20px;
+}
+.img{
+    position: absolute;
+    top: 290px;
+    left: 700px;
+}

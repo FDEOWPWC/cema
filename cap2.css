@@ -1,0 +1,52 @@
+body{
+    background-image: url(./img/ciclos-biogeoquimicos-og\ \(1\).jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.boton{
+    position: absolute;
+    left: 1100px;
+    background-color: darkgray;
+    font-size: 40px;
+    top: 110px;
+}
+.boton:hover{
+    background-color: darkgreen;
+    color: white;
+}
+.menuc2{
+    list-style: none;
+    padding: 0px;
+    background-color: darkgreen;
+    max-width: 1400px;
+    margin: auto;
+}
+ .menuc2 li a{
+   text-decoration: none;
+    color: black;
+    display: block;
+    padding: 20px;
+    text-align: center;
+    color: white;
+ }
+ .menuc2 li{
+    display: inline-block;
+   text-align: center;
+ }
+ .menuc2 li a:hover{
+    background: black;
+    padding: 20px;
+ }
+ li{
+   width: 305px;
+    font-size: 20px;
+ }
+ .p1{
+    position: absolute;
+    top: 300px;
+    font-size: 18px;
+    color: white;
+    background-color: darkgreen;
+    left: 180px;
+ }

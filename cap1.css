@@ -1,0 +1,66 @@
+body{
+    background-image: url(./img/medio\ ambiente\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.info2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p1{
+    text-align: center;
+    background-color:darkgreen;
+    position: absolute;
+    top: 280px;
+    font-size: 25px;
+    left: 0px;
+    color: white;
+}
+.titulo{
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    width: 500px;
+    position: absolute;
+    left: 400px;
+    top: 160px;
+    background-color: darkgreen;
+}
+.boton{
+    position: absolute;
+    left: 1100px;
+    background-color: darkgray;
+    font-size: 40px;
+}
+.boton:hover{
+    background-color: darkgreen;
+    color: white;
+}
+.menu1{
+    list-style: none;
+    padding: 0px;
+    background-color: darkgreen;
+    max-width: 1400px;
+    margin: auto;
+}
+.menu1 li{
+    display: inline-block;
+   text-align: center;
+}
+.menu1 li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+li{
+    width: 230px;
+     font-size: 20px;
+}
+.menu1 li a:hover{
+    background: black;
+    padding: 20px;
+ }

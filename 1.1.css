@@ -1,0 +1,52 @@
+.boton{
+    position: absolute;
+    left: 1100px;
+    background-color: darkgray;
+    font-size: 40px;
+    top: 100px;
+}
+.boton:hover{
+    background-color:cadetblue;
+    color: white;
+}
+.content{
+    position: absolute;
+    text-align: center;
+    font-size: 20px;
+    left: 400px;
+    color: white;
+}
+body{
+    background-image: url(./img/hola.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.p1{
+    position: absolute;
+    top: 190px;
+    background-color: white;
+    font-size: 20px;
+    width: 300px;
+    padding: 30px;
+    left: 90px;
+}
+.p2{
+    position: absolute;
+    background-color: white;
+    left: 90px;
+    font-size: 20px;
+    width: 300px;
+    top: 590px;
+    padding: 30px;
+}
+.img1{
+    position: absolute;
+    left: 500px;
+    top: 250px;
+}
+.img2{
+    position: absolute;
+    left: 500px;
+    top: 650px;
+}

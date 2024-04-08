@@ -1,0 +1,37 @@
+.boton{
+    position: absolute;
+    left: 1100px;
+    background-color: darkgray;
+    font-size: 40px;
+    top: 100px;
+}
+.boton:hover{
+    background-color: white;
+    color: black;
+}
+body{
+    background-image: url(./img/subsi.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.p1{
+    position: absolute;
+    background-color: white;
+    color: black;
+    width: 1000px;
+    font-size: 20px;
+    left: 150px;
+    top: 380px;
+}
+.info{
+    position: absolute;
+    background-color: white;
+    color: black;
+    left: 480px;
+}
+.img1{
+    position: absolute;
+    left: 360px;
+    top: 170px;
+}

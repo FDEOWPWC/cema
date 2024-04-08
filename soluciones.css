@@ -1,0 +1,81 @@
+.t1{
+    position: absolute;
+    left: 330px;
+    color:white;
+    font-size: 20px;
+    background-color: darkgreen;
+}
+body{
+    background-image: url(./img/soluciones.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.t2{
+    background-color: darkgreen;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    top:500px;
+}
+.img1{
+    position: absolute;
+    top: 200px;
+   left: 600px;
+}
+.t3{
+    position: absolute;
+    top: 1000px;
+    background-color: darkgreen;
+    color: white;
+    font-size: 20px;
+}
+.img2{
+    position: absolute;
+    top: 650px;
+    left: 600px;
+}
+.t4{
+    position: absolute;
+    top: 1600px;
+    background-color:darkgreen;
+    color:white;
+    font-size: 20px;
+}
+.img3{
+    position: absolute;
+    top: 1200px;
+    left: 600px;
+}
+.t5{
+    position: absolute;
+    top: 2200px;
+    font-size: 20px;
+    background-color:darkgreen;
+    color: white;
+}
+.img4{
+    position: absolute;
+    top: 1800px;
+    left: 600px;
+}
+.t6{
+    position: absolute;
+    top: 2800px;
+    font-size: 20px;
+    background-color:darkgreen;
+    color:white;
+}
+.img5{
+    position: absolute;
+    top: 2400px;
+    left:600px;
+}
+button{
+    font-size: 30px;
+
+}
+.btn1:hover{
+    background-color: darkgreen;
+    color: white;
+}

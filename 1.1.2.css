@@ -1,0 +1,38 @@
+.boton{
+    position: absolute;
+    left: 1100px;
+    background-color: darkgray;
+    font-size: 40px;
+    top: 100px;
+}
+.boton:hover{
+    background-color: darkgreen;
+    color: white;
+}
+.content{
+    position: absolute;
+    color: white;
+    background-color: darkgreen;
+    text-align: center;
+    left: 270px;
+}
+body{
+    background-image: url(./img/post_Sin_ti_tulo-1_Mesa_de_trabajo_1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.p1{
+    position: absolute;
+    top: 350px;
+    background-color: darkgreen;
+    color: white;
+    font-size: 20px;
+    width: 1000px;
+    left: 150px;
+}
+.img{
+    position: absolute;
+    left: 380px;
+    top: 150px;
+}
